@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b9a271fd-2b68-4870-83fd-b8ffdc9b5587.ws-us03.gitpod.io",
+    "address": "https://b9a271fd-2b68-4870-83fd-b8ffdc9b5587.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -245,7 +245,7 @@
         {
             "slug": "19-Day_of_week",
             "title": "19-Day_of_week",
-            "done": false,
+            "done": true,
             "path": "exercises/19-Day_of_week",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "20-Digital_clock",
             "title": "20-Digital_clock",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Digital_clock",
             "translations": [
                 "es",

@@ -1,0 +1,6 @@
+user_input = input("Enter a number: ")
+num1 = int("%s" % user_input)
+num2 = int("%s%s" % (user_input,user_input))
+num3 = int("%s%s%s" % (user_input,user_input,user_input))
+num4 = int("%s%s%s%s" % (user_input,user_input,user_input,user_input))
+print(num1 + num2 + num3 + num4)
